@@ -14,6 +14,8 @@ Sou um FullStack Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, filmes, no cinema e no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GustavoMSevero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-m-severo-03ab9620/)](https://www.linkedin.com/in/gustavo-m-severo-03ab9620/) 
 | 
+[![Gmail Badge](https://img.shields.io/badge/-gustavo@gapps.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo@gapps.com.br)](mailto:gustavo@gapps.com.br)
+ou
 [![Gmail Badge](https://img.shields.io/badge/-gustavo.msevero@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.msevero@gmail.com)](mailto:gustavo.msevero@gmail.com)
 
 <!--
