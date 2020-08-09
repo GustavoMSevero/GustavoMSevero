@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/GustavoMSevero/GustavoMSevero/blob/master/banner.png">
+<img width="auto" src="https://github.com/GustavoMSevero/GustavoMSevero.png">
 
 # Gustavo Severo
 
