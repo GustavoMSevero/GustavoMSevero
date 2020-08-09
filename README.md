@@ -9,12 +9,12 @@ Sou um FullStack Developer :computer:
 
 :rocket:  &nbsp; Estou trabalhando como parceiro na **Selfcomp**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React, Back-end usando PHP e mobile usando React-Native
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <!--<br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox -->
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, PHP, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, filmes, no cinema e no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-m-severo-03ab9620/)](https://www.linkedin.com/in/gustavo-m-severo-03ab9620/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GustavoMSevero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-m-severo-03ab9620/)](https://www.linkedin.com/in/gustavo-m-severo-03ab9620/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gustavo.msevero@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.msevero@gmail.com)](mailto:gustavo.msevero@gmail.com)
 
 <!--
 **GustavoMSevero/GustavoMSevero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
