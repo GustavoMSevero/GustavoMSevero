@@ -1,4 +1,11 @@
+<img width="auto" src="https://github.com/GustavoMSevero/GustavoMSevero/blob/master/banner.png">
+
+# Gustavo Severo
+
 ### Hi there 👋
+
+Sou fissurado por resolver problemas utilizando a programação.
+Sou um FullStack Developer :computer:
 
 <!--
 **GustavoMSevero/GustavoMSevero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
